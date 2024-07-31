@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @danxnya
+- 👀 I’m interested in Linux, Computer cience and mobile develop.
+- 🌱 I’m currently learning C++, Javascript and Server on Linux.
+- 💞️ I’m looking to collaborate on any projects, only for fun now.
+- 📫 How to reach me notdamw@proton.me
