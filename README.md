@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danxnya
+- 👋 Hi, I’m not @notdanna ;)
 - 👀 I’m interested in Linux, Computer cience and mobile develop.
 - 🌱 I’m currently learning C++, Javascript and Linux Services.
 - 💞️ I’m looking to collaborate on any projects, only for fun now.
