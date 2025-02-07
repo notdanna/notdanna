@@ -1,4 +1,5 @@
-<img src="https://github.com/notdanna/notdanna/blob/main/danna.gif?raw=true" width="50%">
+<img src="https://github.com/notdanna/notdanna/blob/main/danna.gif?raw=true" width="50%" style="display: block; margin: auto;">
+
 
 Hewo! I am Danna or not? heh, a smol software engineer that loves messing with tech stuff. Feel free to come along.
 
