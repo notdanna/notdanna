@@ -1,4 +1,4 @@
-<img src="https://github.com/notdanna/notdanna/blob/main/danna.git?raw=true" width="100%">
+<img src="https://github.com/notdanna/notdanna/blob/main/danna.gif?raw=true" width="100%">
 
 Hewo! I am Danna or not? heh, a smol software engineer that loves messing with tech stuff. Feel free to come along.
 
