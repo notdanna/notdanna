@@ -8,8 +8,7 @@ name = "danna"
 
 [self]
 age = 20
-locale = "es-ES"
-drink = "matcha 🍵"
+locale = "la-latin1"
 icon = "🍃"
 
 [langs]
