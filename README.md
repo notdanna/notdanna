@@ -1,4 +1,10 @@
-<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
+ _   _       _   ____                                 _____ 
+| \ | | ___ | |_|  _ \  __ _ _ __  _ __   __ _      _|___ / 
+|  \| |/ _ \| __| | | |/ _` | '_ \| '_ \ / _` |    (_) |_ \ 
+| |\  | (_) | |_| |_| | (_| | | | | | | | (_| |     _ ___) |
+|_| \_|\___/ \__|____/ \__,_|_| |_|_| |_|\__,_|    (_)____/ 
+
+
 
 Hewo! I am Kimu, a smol software engineer that loves messing with tech stuff. Feel free to come along.
 
