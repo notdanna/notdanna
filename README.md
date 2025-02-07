@@ -1,4 +1,4 @@
-<img src="[https://imgur.com/a/JDQ3Km7]" width="100%">
+[Imgur](https://imgur.com/94hXYDX)
 
 
 Hewo! I am Kimu, a smol software engineer that loves messing with tech stuff. Feel free to come along.
