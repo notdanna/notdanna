@@ -4,20 +4,20 @@
 Hello everynyan! I am Danna or not? heh, a small software engineer that loves messing with tech stuff. Feel free to come along.
 
 ```toml
-name = "danna"
+name = "dam"
 
 [self]
 age = 20
 locale = "la-latin1"
-icon = "🍃"
+icon = "🌸"
 
 [langs]
 fav = "Rust"
 most_used = "TypeScript"
 
 [os]
-kernel = "linux-zen"
-flavor = "Arch-Linux"
+kernel = "linux-zen" && "XNU"
+flavor = "Arch-Linux" && "MacOS"
 ```
 
 ## Skills
