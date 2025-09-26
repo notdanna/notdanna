@@ -16,8 +16,8 @@ fav = "Rust"
 most_used = "TypeScript"
 
 [os]
-kernel = "linux-zen" && "XNU"
-flavor = "Arch-Linux" && "MacOS"
+kernel = ["linux-zen", "XNU"]
+flavor = ["Arch-Linux", "MacOS"]
 ```
 
 ## Skills
