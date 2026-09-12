@@ -7,9 +7,8 @@ Hello everynyan! I am Dam or not? heh, a small software engineer that loves mess
 name = "dam"
 
 [self]
-age = 20
+age = 22
 locale = "la-latin1"
-icon = "🌸"
 
 [langs]
 fav = "Rust"
